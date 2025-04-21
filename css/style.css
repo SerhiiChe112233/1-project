@@ -5,3 +5,7 @@
     margin: 0;
     outline: none;
 }
+
+body {
+    background: silver;
+}
